@@ -21,7 +21,7 @@ Please, notice that this is provided mainly as a guide for reasoning on differen
 
 :+1: **Why it is good** :+1:: The target population is clear and possibly easy to reach out. Similarly, the project idea is well-defined and many needs can be potentially extracted.
 
-:fire: **What can be improved** :fire:: The general activity is problematic. An option is to focus more on one aspect (i.e., finding recipes vs. the actual cooking). The actual cooking is more interesting, as 'finding' is just one feature.
+:fire: **What can be improved** :fire:: The general activity is problematic. An option is to focus more on one aspect (i.e., finding recipes vs. the actual cooking). The actual cooking is more interesting, as "finding" is just one feature.
 
 ## Example 3 [REFINE]
 
@@ -31,7 +31,7 @@ Please, notice that this is provided mainly as a guide for reasoning on differen
 
 :+1: **What is good** :+1:: The target population is well defined. The project idea is promising and interesting.
 
-:fire: **What needs to be improved** :fire:: The project idea is expressed in a too general form. The first activity is a feature, not an activity, while the second one does not apply: it would be for a different target group.
+:fire::fire: **What needs to be improved** :fire::fire:: The project idea is expressed in a too general form. The first activity is a feature, not an activity, while the second one does not apply: it would be for a different target group (e.g., city administrators).
 
 :raised_hands: **How can be fixed** :raised_hands::<br/>
 *General activity*: Improvement of the ways citizens have to interact with public authorities, to express their issues related to the conditions of public facilities, e.g., roads, garbage, and to express requests for improvements to public infrastructures, e.g., to build a new street or park.
@@ -44,7 +44,7 @@ Please, notice that this is provided mainly as a guide for reasoning on differen
 
 :+1: **What is good** :+1:: The target population is ok and it seems easy to reach out. The domain is interesting.
 
-:fire: **What needs to be improved** :fire:: The idea and the general activities are already describing a specific solution. The focus must be on the task (ordering? seating? eating? ...?). Also, avoid replicating existing apps or kiosks.
+:fire::fire: **What needs to be improved** :fire::fire:: The idea and the general activities are already describing a specific solution. The focus must be on the task (ordering? seating? eating? ...?). Also, avoid replicating existing apps or kiosks.
 
 :raised_hands: **How can be fixed** :raised_hands::<br/>
 *Idea*: We would like to help bar and restaurants customers to better manage the ordering process at the table.<br/>
